@@ -1,0 +1,417 @@
+/**
+ * Pictures project
+ */
+
+/*White photographie*/
+#project-1 #picture-1 {
+    background-image: url('../images/projects/project-1/1.jpg');
+}
+#project-1 #picture-2 {
+    background-image: url('../images/projects/project-1/2.jpg');
+}
+#project-1 #picture-3 {
+    background-image: url('../images/projects/project-1/3.jpg');
+}
+#project-1 #picture-4 {
+    background-image: url('../images/projects/project-1/4.jpg');
+}
+
+
+
+/*sos sahel*/
+
+#project-2 #picture-1 {
+    background-image: url('../images/projects/project-2/1.jpg');
+}
+#project-2 #picture-2 {
+    background-image: url('../images/projects/project-2/2.jpg');
+}
+#project-2 #picture-3 {
+    background-image: url('../images/projects/project-2/3.jpg');
+}
+#project-2 #picture-4 {
+    background-image: url('../images/projects/project-2/4.jpg');
+}
+#project-2 #picture-5 {
+    background-image: url('../images/projects/project-2/5.jpg');
+}
+
+
+/*Stop Tabac Coach*/
+
+#project-3 #picture-1 {
+    background-image: url('../images/projects/project-3/1.jpg');
+}
+#project-3 #picture-2 {
+    background-image: url('../images/projects/project-3/2.jpg');
+}
+#project-3 #picture-3 {
+    background-image: url('../images/projects/project-3/3.jpg');
+}
+#project-3 #picture-4 {
+    background-image: url('../images/projects/project-3/4.jpg');
+}
+
+
+/*Allergy Track*/
+
+#project-4 #picture-1 {
+    background-image: url('../images/projects/project-4/1.jpg');
+}
+#project-4 #picture-2 {
+    background-image: url('../images/projects/project-4/2.jpg');
+}
+#project-4 #picture-3 {
+    background-image: url('../images/projects/project-4/3.jpg');
+}
+#project-4 #picture-4 {
+    background-image: url('../images/projects/project-4/4.jpg');
+}
+#project-4 #picture-5 {
+    background-image: url('../images/projects/project-4/5.jpg');
+}
+
+
+/*BS Evolution*/
+
+#project-5 #picture-1 {
+    background-image: url('../images/projects/project-5/1.jpg');
+}
+#project-5 #picture-2 {
+    background-image: url('../images/projects/project-5/2.jpg');
+}
+#project-5 #picture-3 {
+    background-image: url('../images/projects/project-5/3.jpg');
+}
+#project-5 #picture-4 {
+    background-image: url('../images/projects/project-5/4.jpg');
+}
+#project-5 #picture-5 {
+    background-image: url('../images/projects/project-5/5.jpg');
+}
+#project-5 #picture-6 {
+    background-image: url('../images/projects/project-5/6.jpg');
+}
+
+
+/*À La Pendule*/
+
+#project-6 #picture-1 {
+    background-image: url('../images/projects/project-6/1.jpg');
+}
+#project-6 #picture-2 {
+    background-image: url('../images/projects/project-6/2.jpg');
+}
+#project-6 #picture-3 {
+    background-image: url('../images/projects/project-6/3.jpg');
+}
+#project-6 #picture-4 {
+    background-image: url('../images/projects/project-6/4.jpg');
+}
+#project-6 #picture-5 {
+    background-image: url('../images/projects/project-6/5.jpg');
+}
+#project-6 #picture-6 {
+    background-image: url('../images/projects/project-6/6.jpg');
+}
+
+
+/*Glauser*/
+
+#project-7 #picture-1 {
+    background-image: url('../images/projects/project-7/1.jpg');
+}
+#project-7 #picture-2 {
+    background-image: url('../images/projects/project-7/2.jpg');
+}
+#project-7 #picture-3 {
+    background-image: url('../images/projects/project-7/3.jpg');
+}
+#project-7 #picture-4 {
+    background-image: url('../images/projects/project-7/4.jpg');
+}
+#project-7 #picture-5 {
+    background-image: url('../images/projects/project-7/5.jpg');
+}
+#project-7 #picture-6 {
+    background-image: url('../images/projects/project-7/6.jpg');
+}
+
+
+/*DVE - Digital Virgo*/
+
+#project-8 #picture-1 {
+    background-image: url('../images/projects/project-8/1.jpg');
+}
+#project-8 #picture-2 {
+    background-image: url('../images/projects/project-8/2.jpg');
+}
+#project-8 #picture-3 {
+    background-image: url('../images/projects/project-8/3.jpg');
+}
+#project-8 #picture-4 {
+    background-image: url('../images/projects/project-8/4.jpg');
+}
+#project-8 #picture-5 {
+    background-image: url('../images/projects/project-8/5.jpg');
+}
+
+
+/*Botanic*/
+
+#project-9 #picture-1 {
+    background-image: url('../images/projects/project-9/1.jpg');
+}
+#project-9 #picture-2 {
+    background-image: url('../images/projects/project-9/2.jpg');
+}
+#project-9 #picture-3 {
+    background-image: url('../images/projects/project-9/3.jpg');
+}
+#project-9 #picture-4 {
+    background-image: url('../images/projects/project-9/4.jpg');
+}
+
+
+
+/*By Agency Design*/
+
+#project-10 #picture-1 {
+    background-image: url('../images/projects/project-10/1.jpg');
+}
+#project-10 #picture-2 {
+    background-image: url('../images/projects/project-10/2.jpg');
+}
+#project-10 #picture-3 {
+    background-image: url('../images/projects/project-10/3.jpg');
+}
+#project-10 #picture-4 {
+    background-image: url('../images/projects/project-10/4.jpg');
+}
+#project-10 #picture-5 {
+    background-image: url('../images/projects/project-10/5.jpg');
+}
+
+
+/*Algonquin*/
+
+#project-11 #picture-1 {
+    background-image: url('../images/projects/project-11/1.jpg');
+}
+#project-11 #picture-2 {
+    background-image: url('../images/projects/project-11/2.jpg');
+}
+#project-11 #picture-3 {
+    background-image: url('../images/projects/project-11/3.jpg');
+}
+#project-11 #picture-4 {
+    background-image: url('../images/projects/project-11/4.jpg');
+}
+#project-11 #picture-5 {
+    background-image: url('../images/projects/project-11/5.jpg');
+}
+
+
+/**
+ * [Retina]
+ * @type {[type]}
+ */
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+
+
+    /*White photographie*/
+    #project-1 #picture-1 {
+        background-image: url('../images/projects/project-1/1@2x.jpg');
+    }
+    #project-1 #picture-2 {
+        background-image: url('../images/projects/project-1/2@2x.jpg');
+    }
+    #project-1 #picture-3 {
+        background-image: url('../images/projects/project-1/3@2x.jpg');
+    }
+    #project-1 #picture-4 {
+        background-image: url('../images/projects/project-1/4@2x.jpg');
+    }
+
+
+    /*sos sahel*/
+    #project-2 #picture-1 {
+        background-image: url('../images/projects/project-2/1@2x.jpg');
+    }
+    #project-2 #picture-2 {
+        background-image: url('../images/projects/project-2/2@2x.jpg');
+    }
+    #project-2 #picture-3 {
+        background-image: url('../images/projects/project-2/3@2x.jpg');
+    }
+    #project-2 #picture-4 {
+        background-image: url('../images/projects/project-2/4@2x.jpg');
+    }
+    #project-2 #picture-5 {
+        background-image: url('../images/projects/project-2/5@2x.jpg');
+    }
+
+
+  /*Stop Tabac Coach*/
+    #project-3 #picture-1 {
+        background-image: url('../images/projects/project-3/1@2x.jpg');
+    }
+    #project-3 #picture-2 {
+        background-image: url('../images/projects/project-3/2@2x.jpg');
+    }
+    #project-3 #picture-3 {
+        background-image: url('../images/projects/project-3/3@2x.jpg');
+    }
+    #project-3 #picture-4 {
+        background-image: url('../images/projects/project-3/4@2x.jpg');
+    }
+
+
+  /*Allergy Track*/
+    #project-4 #picture-1 {
+        background-image: url('../images/projects/project-4/1@2x.jpg');
+    }
+    #project-4 #picture-2 {
+        background-image: url('../images/projects/project-4/2@2x.jpg');
+    }
+    #project-4 #picture-3 {
+        background-image: url('../images/projects/project-4/3@2x.jpg');
+    }
+    #project-4 #picture-4 {
+        background-image: url('../images/projects/project-4/4@2x.jpg');
+    }
+    #project-4 #picture-5 {
+        background-image: url('../images/projects/project-4/5@2x.jpg');
+    }
+
+
+    /*BS Evolution*/
+    #project-5 #picture-1 {
+        background-image: url('../images/projects/project-5/1@2x.jpg');
+    }
+    #project-5 #picture-2 {
+        background-image: url('../images/projects/project-5/2@2x.jpg');
+    }
+    #project-5 #picture-3 {
+        background-image: url('../images/projects/project-5/3@2x.jpg');
+    }
+    #project-5 #picture-4 {
+        background-image: url('../images/projects/project-5/4@2x.jpg');
+    }
+    #project-5 #picture-5 {
+        background-image: url('../images/projects/project-5/5@2x.jpg');
+    }
+    #project-5 #picture-6 {
+        background-image: url('../images/projects/project-5/6@2x.jpg');
+    }
+
+
+   /*À La Pendule*/
+    #project-6 #picture-1 {
+        background-image: url('../images/projects/project-6/1@2x.jpg');
+    }
+    #project-6 #picture-2 {
+        background-image: url('../images/projects/project-6/2@2x.jpg');
+    }
+    #project-6 #picture-3 {
+        background-image: url('../images/projects/project-6/3@2x.jpg');
+    }
+    #project-6 #picture-4 {
+        background-image: url('../images/projects/project-6/4@2x.jpg');
+    }
+    #project-6 #picture-5 {
+        background-image: url('../images/projects/project-6/5@2x.jpg');
+    }
+    #project-6 #picture-6 {
+        background-image: url('../images/projects/project-6/6@2x.jpg');
+    }
+
+
+    /*Glauser*/
+    #project-7 #picture-1 {
+        background-image: url('../images/projects/project-7/1@2x.jpg');
+    }
+    #project-7 #picture-2 {
+        background-image: url('../images/projects/project-7/2@2x.jpg');
+    }
+    #project-7 #picture-3 {
+        background-image: url('../images/projects/project-7/3@2x.jpg');
+    }
+    #project-7 #picture-4 {
+        background-image: url('../images/projects/project-7/4@2x.jpg');
+    }
+    #project-7 #picture-5 {
+        background-image: url('../images/projects/project-7/5@2x.jpg');
+    }
+    #project-7 #picture-6 {
+        background-image: url('../images/projects/project-7/6@2x.jpg');
+    }
+
+
+    /*DVE - Digital Virgo*/
+    #project-8 #picture-1 {
+        background-image: url('../images/projects/project-8/1@2x.jpg');
+    }
+    #project-8 #picture-2 {
+        background-image: url('../images/projects/project-8/2@2x.jpg');
+    }
+    #project-8 #picture-3 {
+        background-image: url('../images/projects/project-8/3@2x.jpg');
+    }
+    #project-8 #picture-4 {
+        background-image: url('../images/projects/project-8/4@2x.jpg');
+    }
+    #project-8 #picture-5 {
+        background-image: url('../images/projects/project-8/5@2x.jpg');
+    }
+
+    /*Botanic*/
+    #project-9 #picture-1 {
+        background-image: url('../images/projects/project-9/1@2x.jpg');
+    }
+    #project-9 #picture-2 {
+        background-image: url('../images/projects/project-9/2@2x.jpg');
+    }
+    #project-9 #picture-3 {
+        background-image: url('../images/projects/project-9/3@2x.jpg');
+    }
+    #project-9 #picture-4 {
+        background-image: url('../images/projects/project-9/4@2x.jpg');
+    }
+
+   /*By Agency Design*/
+    #project-10 #picture-1 {
+        background-image: url('../images/projects/project-10/1@2x.jpg');
+    }
+    #project-10 #picture-2 {
+        background-image: url('../images/projects/project-10/2@2x.jpg');
+    }
+    #project-10 #picture-3 {
+        background-image: url('../images/projects/project-10/3@2x.jpg');
+    }
+    #project-10 #picture-4 {
+        background-image: url('../images/projects/project-10/4@2x.jpg');
+    }
+    #project-10 #picture-5 {
+        background-image: url('../images/projects/project-10/5@2x.jpg');
+    }
+
+
+    /*Algonquin*/
+    #project-11 #picture-1 {
+        background-image: url('../images/projects/project-11/1@2x.jpg');
+    }
+    #project-11 #picture-2 {
+        background-image: url('../images/projects/project-11/2@2x.jpg');
+    }
+    #project-11 #picture-3 {
+        background-image: url('../images/projects/project-11/3@2x.jpg');
+    }
+    #project-11 #picture-4 {
+        background-image: url('../images/projects/project-11/4@2x.jpg');
+    }
+    #project-11 #picture-5 {
+        background-image: url('../images/projects/project-11/5@2x.jpg');
+    }
+}

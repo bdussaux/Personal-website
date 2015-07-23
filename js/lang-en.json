@@ -1,0 +1,121 @@
+{
+    "title": "Benoit Dussaux - I'm a UX/UI designer & full-stack developer based in Paris",
+    "subtitle": "I'm Benoit, UX/UI designer & full-stack developer based in Paris",
+    "description": "I'm a UX/UI designer & full-stack developer based in Paris creating awesome and effective website/application for companies of all sizes",
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "work": "Work",
+        "skills": "Skills",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "About me",
+        "i": "I",
+        "hobbies": "Design, photography, travels, ride my fixed gear, music (Hip Hop), movies (Tarantino, Martin Scorsese)",
+        "description": "I'm a creative designer & developer who works to create beautiful and high quality digital experiences",
+        "content": "<strong>UX/UI designer & full-stack developer</strong>, I have an extensive experience in web and mobile development using HTML4/5, CSS, PHP, JavaScript.<br> Moreover, I acquired a global vision of the <strong>creative digital production</strong>: team management, web branding, creative direction, interactive concept, UI/UX design, accessibility, ergonomics, web standards, responsive webdesign and webApp.<br>For more information, <a href=\"pdf/resume-en.pdf\" target=\"_blank\">download my resume</a>."
+    },
+    "work": {
+        "title": "My work",
+        "subtitle": "Look at my work, it reflects what I am able to do. Browse my recently projects below",
+        "all": "Show all",
+        "design": "UX/UI design",
+        "front": "Front-end development",
+        "back": "Back-end development",
+        "mobile": "Mobile development",
+        "employer": "Employer",
+        "client": "Client",
+        "year": "Year"
+    },
+    "skills": {
+        "title": "Skills",
+        "subtitle": "Just check out all of the skills below to get a general idea of what I am able to do",
+        "tools": "Tools",
+        "designTools": "Sketching, Wireframe, Photoshop, Illustrator, pencil and paper",
+        "designTitle": "UX/UI design",
+        "designSubTitle": "I create beautiful and user based web interface",
+        "frontTools": "HTML4/5, CSS2/3, LESS, Bootstrap, JavaScript (jQuery, jQuery UI, Mootools, AngularJS), Git",
+        "frontTitle": "Front-end development",
+        "frontSubTitle": "I use the best languages to create scalable code",
+        "backTools": "PHP development, MVC frameworks, MySQL, CMS (WordPress, PrestaShop, Joomla)",
+        "backTitle": "Back-end development",
+        "backSubTitle": "I know created tools to manage easily your content",
+        "mobileTools": "jQuery Mobile, Html5, AngularJS, PhoneGap, Xcode, Eclipse",
+        "mobileTitle": "Mobile development",
+        "mobileSubTitle": "I code amazing apps on iOS and Android",
+        "clientTitle": "Clients",
+        "clientSubTitle": "I work for them in agency or in freelance"
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Feel free to contact me, I will reply ASAP!",
+        "contact": "<span>Office: </span>72 rue de Cléry, 75002 Paris - <span>Mobile: </span>(+33) 6 40 14 17 33",
+        "name": "Your name: *",
+        "errorName": "please enter name",
+        "email": "E-mail: *",
+        "errorEmail": "please enter e-mail",
+        "errorValidEmail": "e-mail is not a valid format",
+        "message": "Tell me everything:",
+        "submit": "Submit",
+        "globalError": "There was a problem validating the form, please check!",
+        "timeoutError": "The connection to the server timed out…",
+        "success": "Successfully sent!",
+        "locate": "Locate me on the map"
+    },
+    "footer": {
+        "made": "Made with",
+        "by": "by Benoit Dussaux",
+        "photo": "Photographed by",
+        "legalButton":"Legal terms"
+    },
+    "project-1" :{
+        "description" : "Website for a photographer",
+        "calltoaction" : "Visit website"
+    },
+    "project-2" :{
+        "description" : "Website for an international O.N.G",
+        "calltoaction" : "Visit website"
+    },
+     "project-3" :{
+        "description" : "Custom application that helps you every day to stop smoking",
+        "calltoaction" : "Visit mobile web app"
+    },
+    "project-4" :{
+        "description" : "Application to track your symptoms, and thus generate a diary to monitor your condition",
+        "calltoaction-1" : "Download iOS App",
+        "calltoaction-2" : "Download Android App"
+    },
+     "project-5" :{
+        "description" : "Website for a company specialized in covering",
+        "calltoaction" : "Visit website"
+    },
+    "project-6" :{
+        "description" : "Website for a french fashion brand",
+        "calltoaction" : "Visit website"
+    },
+    "project-7" :{
+        "description" : "Website for a general construction company, operates both in France and around the world on prestigious projects",
+        "calltoaction" : "Visit website"
+    },
+    "project-8" :{
+        "description" : "Mobile App for a company that publishes a bunch of services for consumers",
+        "calltoaction-1" : "Download iOS App",
+        "calltoaction-2" : "Download Android App"
+    },
+     "project-9" :{
+        "description" : "Help and sharing, application in the service for consumers",
+        "calltoaction-1" : "Download iOS App",
+        "calltoaction-2" : "Download Android App"
+    },
+    "project-10" :{
+        "description" : "Website for a design agency located in Paris",
+        "calltoaction" : "Visit website"
+    },
+     "project-11" :{
+        "description" : "Websites for any hotels located in Reims",
+        "calltoaction-1" : "Visit Mercures website",
+        "calltoaction-2" : "Visit Ibis website",
+        "calltoaction-3" : "Visit Holiday Inn website"
+    }
+}

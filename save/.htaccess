@@ -1,0 +1,5 @@
+SetEnv PHP_VER 5
+SetEnv REGISTER_GLOBALS 0
+RewriteEngine on
+Rewritecond %{HTTP_HOST} ^benoitdussaux.com$
+Rewriterule ^(.*) http://www.benoitdussaux.com/$1 [QSA,L,R=301]

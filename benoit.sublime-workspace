@@ -1,0 +1,899 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"phot",
+				"photographie"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"small",
+				"small-text	 layout.css"
+			],
+			[
+				"toggl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"first",
+				"first-child	 pseudo selector"
+			],
+			[
+				"par",
+				"padding-right"
+			],
+			[
+				"re",
+				"rel	Attr"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"img",
+				"img	picture"
+			],
+			[
+				"ca",
+				"caption	<caption>"
+			],
+			[
+				"ar",
+				"article	<article>"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"six",
+				"sixteen	 skeleton.css"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"ti",
+				"title	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backr",
+				"background-color"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"FFF",
+				"FFFFFF"
+			],
+			[
+				"title",
+				"title	title"
+			],
+			[
+				"c",
+				"click	click"
+			],
+			[
+				"th",
+				"this	$(this)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 32144,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: title",
+				"Snippet: <title>"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"pake",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/benoit",
+		"/Applications/MAMP/htdocs/benoit/js"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/benoit/js/template.js",
+		"/Applications/MAMP/htdocs/benoit/dist/.htaccess",
+		"/Applications/MAMP/htdocs/benoit/css/base1.css",
+		"/Applications/MAMP/htdocs/benoit/css/font-awesome.css",
+		"/Applications/MAMP/htdocs/benoit/Gruntfile.js",
+		"/Applications/MAMP/htdocs/benoit/index.html",
+		"/Applications/MAMP/htdocs/benoit/dist/adaptive-images.php",
+		"/Applications/MAMP/htdocs/benoit/dist/index.html",
+		"/Applications/MAMP/htdocs/benoit/css/layout.css",
+		"/Applications/MAMP/htdocs/benoit/dist/js/lang-fr.json",
+		"/Applications/MAMP/htdocs/benoit/dist/js/lang-en.json",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-1.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-10.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-11.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-2.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-3.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-4.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-5.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-6.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-7.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-8.html",
+		"/Applications/MAMP/htdocs/benoit/dist/projects/project-9.html",
+		"/Applications/MAMP/htdocs/benoit/js/lang-en.json",
+		"/Applications/MAMP/htdocs/benoit/js/lang-fr.json",
+		"/Applications/MAMP/htdocs/benoit/projects/project-1.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-10.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-11.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-2.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-3.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-5.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-6.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-7.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-8.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-9.html",
+		"/Applications/MAMP/htdocs/benoit/projects/project-4.html",
+		"/Applications/MAMP/htdocs/benoit/css/colors/color.css",
+		"/Applications/MAMP/htdocs/benoit/images/grayscale.svg",
+		"/Applications/MAMP/htdocs/benoit/mail-it.php",
+		"/Applications/MAMP/htdocs/benoit/package.json",
+		"/Applications/MAMP/htdocs/benoit/css/portfolio.css",
+		"/Applications/MAMP/htdocs/benoit/js/plugins.js",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/WEBSITE-STATIC/adyoulike.com/static/index.html",
+		"/Applications/MAMP/htdocs/benoit/js/scrollReveal.js",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Applications/MAMP/htdocs/benoit/projects/white-photographie.html",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/benoit/legal.html",
+		"/Applications/MAMP/htdocs/benoit/js/jquery.sharrre.min.js",
+		"/Applications/MAMP/htdocs/benoit/js/cbpAnimatedHeader.min.js",
+		"/Applications/MAMP/htdocs/benoit/js/royal_preloader.min.js",
+		"/Applications/MAMP/htdocs/benoit/js/lang.json",
+		"/Applications/MAMP/htdocs/benoit/js/sharrre.php",
+		"/Applications/MAMP/htdocs/benoit/js/jquery.colorbox.js",
+		"/Applications/MAMP/htdocs/benoit/css/colorbox.css",
+		"/Applications/MAMP/htdocs/benoit/css/base.css",
+		"/Users/benoitdussaux/Documents/PROJETS/BENOIT DUSSAUX/themeforest-7043654-chronos-parallax-one-page-html-template/chronos - template/light/css/layout.css",
+		"/Applications/MAMP/htdocs/benoit/projects/project.html",
+		"/Applications/MAMP/htdocs/mobile/index.html",
+		"/Applications/MAMP/htdocs/mobile/assets/css/layouts/light.css",
+		"/Applications/MAMP/htdocs/mobile/assets/css/main.css",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/tag.sublime-snippet",
+		"/Applications/MAMP/htdocs/mobile/assets/css/colors/purple.css",
+		"/Applications/MAMP/htdocs/mobile/assets/js/plugins/responsive-accordion.min.js",
+		"/Applications/MAMP/htdocs/mobile/assets/css/colors/green.css",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/WEBSITE-STATIC/adyoulike.com/static/css/bootstrap-responsive.css",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/WEBSITE-STATIC/adyoulike.com/static/css/style.css",
+		"/Users/benoitdussaux/Desktop/le-monde.html",
+		"/Applications/MAMP/htdocs/blog/css/skeleton.css",
+		"/Applications/MAMP/htdocs/blog/css/main.css",
+		"/Applications/MAMP/htdocs/blog/article-link.html",
+		"/Applications/MAMP/htdocs/blog/js/main.js",
+		"/Applications/MAMP/htdocs/blog/article-video.html",
+		"/Applications/MAMP/htdocs/blog/article-slider.html",
+		"/Applications/MAMP/htdocs/blog/index.html",
+		"/Applications/MAMP/htdocs/blog/article-quote.html",
+		"/Applications/MAMP/htdocs/blog/article-picture.html",
+		"/Applications/MAMP/htdocs/blog/article.html",
+		"/Users/benoitdussaux/Downloads/ResponsiveSlides.js-master/responsiveslides.css",
+		"/Applications/MAMP/htdocs/blog/js/plugins.js",
+		"/Users/benoitdussaux/Downloads/ResponsiveSlides.js-master/demo/demo.html",
+		"/Users/benoitdussaux/Downloads/ResponsiveSlides.js-master/responsiveslides.min.js",
+		"/Users/benoitdussaux/Downloads/FitVids.js-master/jquery.fitvids.js",
+		"/Users/benoitdussaux/Downloads/FitVids.js-master/tests.html",
+		"/Applications/MAMP/htdocs/support/spe-tech/static/faq/index.html",
+		"/Users/benoitdussaux/Desktop/gradient-adyoulike.css",
+		"/Applications/MAMP/htdocs/support/spe-tech/static/css/main.css",
+		"/Applications/MAMP/htdocs/support/spe-tech/static/index.html",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/postcontent.sublime-snippet",
+		"/Users/benoitdussaux/Library/Caches/TemporaryItems/obs-sprite.png",
+		"/Users/benoitdussaux/Sublime-Text-2-Icon/mac_replace_icons",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/Clickable URLs/Default (OSX).sublime-keymap",
+		"/private/var/folders/87/9dj3ny4172v798j2m6tyjdjm0000gn/T/6c5394af-59bc-4910-8143-6d9ee21f35b7/landing.adyoulike.com/laredoute/index.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/CREA/ADYOULIKE/NEWSLETTER-TEMPLATE/email-blueprints-master/responsive-templates/base_boxed_body_image_2column_query.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/CREA/ADYOULIKE/NEWSLETTER-MOBILE/dev/index.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/CREA/ADYOULIKE/NEWSLETTER-MOBILE/rtb/index.html",
+		"/Users/benoitdussaux/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/5B3958DB-A621-4490-9474-0F7C8130E67C/template.html",
+		"/Applications/MAMP/htdocs/benoit/js/api/config.php",
+		"/Users/benoitdussaux/Downloads/Tweetie-master/index.html",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/benoitdussaux/Downloads/AnimatedHeaderBackgrounds/index3.html",
+		"/Users/benoitdussaux/Downloads/AnimatedHeaderBackgrounds/js/demo-3.js",
+		"/Users/benoitdussaux/Downloads/AnimatedHeaderBackgrounds/js/demo-2.js",
+		"/Users/benoitdussaux/Downloads/AnimatedHeaderBackgrounds/js/demo-4.js",
+		"/Users/benoitdussaux/Downloads/AnimatedHeaderBackgrounds/css/demo.css",
+		"/Users/benoitdussaux/Downloads/AnimatedHeaderBackgrounds/css/component.css",
+		"/Users/benoitdussaux/Downloads/AnimatedHeaderBackgrounds/index4.html",
+		"/Applications/MAMP/htdocs/benoit/js/api/tweet.php",
+		"/Applications/MAMP/htdocs/benoit/tweet.php",
+		"/Applications/MAMP/htdocs/benoit/js/tweetie.js",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Spacegray.sublime-package",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/WEBSITE-STATIC/adyoulike.com/static/demos/native/gallery/index.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/INTEGRATION/test.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/INTEGRATION/the-guardian.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/INTEGRATION/template.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/WEBSITE-STATIC/adyoulike.com/static/demos/native/picture/index.html",
+		"/Users/benoitdussaux/Documents/ADYOULIKE/WEBSITE-STATIC/adyoulike.com/static/demos/native/picture/landing/index.html",
+		"/private/var/folders/87/9dj3ny4172v798j2m6tyjdjm0000gn/T/6c5394af-59bc-4910-8143-6d9ee21f35b7/public.adyoulike.com/Demos/Native/Acer/nike.png",
+		"/private/var/folders/87/9dj3ny4172v798j2m6tyjdjm0000gn/T/6c5394af-59bc-4910-8143-6d9ee21f35b7/public.adyoulike.com/Demos/Native/Acer/index.html",
+		"/private/var/folders/87/9dj3ny4172v798j2m6tyjdjm0000gn/T/6c5394af-59bc-4910-8143-6d9ee21f35b7/public.adyoulike.com/index.html",
+		"/Users/benoitdussaux/Library/Application Support/Sublime Text 3/Packages/User/subtitle.sublime-snippet",
+		"/Users/benoitdussaux/Downloads/ng-juketube-master/.travis.yml",
+		"/Applications/MAMP/htdocs/closer/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+			"",
+			"http://www.gqmagazine.fr/siemens",
+			"",
+			"http://www.gqmagazine.fr/siemens",
+			"",
+			"http://www.gqmagazine.fr/siemens",
+			"http://www.gqmagazine.fr/mode/style/articles/faut-il-faire-personnaliser-ses-baskets-/16090",
+			"/Applications/MAMP/htdocs/support/spe-tech/static/uk"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"roboto",
+			"@import",
+			"@import ",
+			"Rob",
+			"Robo",
+			"Roboto",
+			"roboto",
+			"googleapis",
+			"roboto",
+			"retib",
+			"front-end",
+			"body .menu-mobile-wrapper .menu-mobile li a.logo",
+			"body .menu-mobile-wrapper .menu-mobile",
+			"fastclick",
+			"full-stack",
+			"sep1",
+			"setProjects",
+			"resize",
+			"trigger",
+			"resize",
+			"setProjects",
+			"iso",
+			"app",
+			"design",
+			"designer",
+			"front",
+			"designer",
+			"mobile",
+			"subtitle",
+			"title",
+			"description",
+			".scroll-btn",
+			"48.8689218",
+			"90",
+			"31",
+			"grayscale",
+			"images/",
+			"google_map",
+			"getLanguageByID",
+			"jquery.onepage-scroll.js",
+			"jquery.onepage-scroll",
+			"jquery.onepage-scroll.js",
+			".project-info small",
+			"light",
+			"dark",
+			".project-info h5",
+			"just_pattern_light",
+			".just_pattern_dark",
+			"picture-6",
+			"light",
+			"dark",
+			".dark",
+			"#picture-1 .just_pattern_dark",
+			"developer",
+			"developper",
+			"developer",
+			"developper",
+			"développeur",
+			"front-end",
+			"front-e,d",
+			"dévelop",
+			"developper",
+			"developer",
+			"developper",
+			"développeur",
+			"front",
+			"a:before",
+			"internet",
+			"pattern",
+			"project-info",
+			"light",
+			"dark",
+			".dark",
+			"pdf",
+			"#about .circle:hover",
+			"#about .circle .info",
+			"#about p",
+			"menu",
+			";\n",
+			"scrollReveal",
+			"background-size: contain",
+			"background-size: contain; */",
+			".project-info",
+			"project-info",
+			"#picture-1 .just_pattern_dark",
+			"picture-1",
+			"scroll-btn",
+			"tag",
+			".project-info .summary",
+			"p.tags",
+			".project-info h5",
+			"body.open-menu .menu-mobile-wrapper, body .menu-mobile-wrapper .menu-mobile",
+			".project-info h5",
+			".project-info",
+			"ul.menu li.menu-lang a",
+			"mobile",
+			"#footer .back-top.togglemap",
+			".button-map",
+			".contact-wrap p",
+			"logos-wrap",
+			"legal",
+			"footer",
+			"iframe",
+			"lan",
+			"lnag",
+			"scla",
+			"#footer .back-top",
+			"google_map",
+			"#footer p a",
+			".button-map",
+			".close-map",
+			"footer",
+			"292929",
+			"contact",
+			"logos-wrap",
+			"front",
+			"google",
+			"google_map",
+			"chateau",
+			"front",
+			"for companies of all sizes",
+			"data-localize=\"title\"",
+			"/",
+			"switch-lang",
+			"lang",
+			"header",
+			"show",
+			"ul.menu li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"front-end",
+			"scale(1.05)",
+			"f2f2f2",
+			"",
+			" margin-top: 13px;\n    text-decoration: none;\n    font-size: 13px;\n    float: left;\n      color: #474747;\n      line-height: 18px;\n    padding-left: 10px;\n    position: relative;\n    height: 18px;\n    -webkit-transition: all 0.2s ease;-moz-transition: all 0.2s ease;-o-transition: all 0.2s ease;-ms-transition: all 0.2s ease;    transition: all 0.2s ease;",
+			"post-read-more",
+			"post-comment",
+			"post-date",
+			"blog-wrapper",
+			"/sport",
+			"sport",
+			"//",
+			"http://www.gqmagazine.fr/siemens",
+			"modele-image-uk.pdf",
+			"modele-image-ukw.pdf",
+			"modele-image-uk.psd"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29135,
+								29135
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6994.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "benoit.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

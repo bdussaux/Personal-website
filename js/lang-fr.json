@@ -1,0 +1,122 @@
+{
+    "title": "Benoit Dussaux - Designer UX/UI & développeur full-stack à Paris",
+    "subtitle": "Je suis Benoit, designer UX/UI & développeur full-stack à Paris",
+    "description": "Je suis designer UX/UI & développeur full-stack à Paris. Je développe des sites internet et des applications mobiles efficaces et esthétiques pour toute sorte de société.",
+    "menu" : {
+        "home" : "Accueil",
+        "about" : "À propos",
+        "work" : "Portfolio",
+        "skills" : "Compétences",
+        "contact" : "Contact"
+    },
+    "about" : {
+        "title" : "À propos de moi",
+        "i" : "J'",
+        "hobbies" : "Le design, la photographie, voyager, rouler en pignon fixe, la musique (Hip Hop), les films (Tarantino, Martin Scorsese)",
+        "description" : "Designer UX/UI & développeur passionné, je puise dans ma créativité pour créer des expériences digitales de haute qualité",
+        "content" : "<strong>Designer UX/UI & développeur full-stack</strong>, j’ai une vaste expérience dans le développement de sites internet et applications mobiles. J’utilise notamment les langages suivants : HTML4/5, CSS, PHP, JavaScript. <br>De plus, j’ai acquis une vision globale de la <strong>production digitale</strong> : gestion d’une équipe, web marketing, direction artistique, concepts interactifs, design UI/UX, accessibilité, ergonomie, normes internet, responsive design et webApp.<br>Pour plus d'informations, <a href=\"pdf/resume-fr.pdf\" target=\"_blank\">télécharger mon CV</a>."
+    },
+    "work" : {
+        "title" : "Mon portfolio",
+        "subtitle" : "Je pense que mon travail parle de lui-même. N’hésitez pas à jeter un œil sur mes projets ci-dessous",
+        "all" : "Tout voir",
+        "design" : "Design UX/UI",
+        "front" : "Développement front-end",
+        "back" : "Développement back-end",
+        "mobile" : "Développement mobile",
+        "employer": "Employeur",
+        "client": "Client",
+        "year": "Année"
+    },
+    "skills" : {
+        "title" : "Compétences",
+        "subtitle" : "Prenez connaissance de mon savoir-faire pour avoir<br>une idée de ce dont je suis capable :",
+        "tools" : "Outils",
+        "designTools" : "Sketching, Wireframe, Photoshop, Illustrator, papier et crayon",
+        "designTitle" : "Design UX/UI",
+        "designSubTitle" : "Je développe de jolies interfaces web faciles à utiliser",
+        "frontTools" : "HTML4/5, CSS2/3, LESS, Bootstrap, JavaScript (jQuery, jQuery UI, Mootools, AngularJS), Git",
+        "frontTitle" : "Développement front-end",
+        "frontSubTitle" : "J’utilise les langages les plus performants pour développer de manière extensible",
+        "backTools" : "PHP développement, MVC frameworks, MySQL, CMS (WordPress, PrestaShop, Joomla)",
+        "backTitle" : "Développement back-end",
+        "backSubTitle" : "Je crée aussi des outils pour vous aider à éditer facilement le contenu de votre site",
+        "mobileTools" : "jQuery Mobile, Html5, AngularJS, PhoneGap, Xcode, Eclipse",
+        "mobileTitle" : "Développement mobile",
+        "mobileSubTitle" : "Enfin, je développe d’incroyables applications mobiles pour iOS et Android",
+        "clientTitle": "Clients",
+        "clientSubTitle": "Je travaille pour eux en agence ou en freelance"
+    },
+    "contact" : {
+        "title" : "Contact",
+        "subtitle" : "N’hésitez pas à me contacter, je vous répondrai dès que possible !",
+        "contact" : "<span>Office : </span>72 rue de Cléry, 75002 Paris - <span>Mobile : </span>(+33) 6 40 14 17 33",
+        "name" : "Votre nom : *",
+        "errorName" : "Svp remplissez votre nom",
+        "email" : "E-mail : *",
+        "errorEmail" : "Svp remplissez votre e-mail",
+        "errorValidEmail" : "Votre e-mail n’est pas valide",
+        "message" : "Dites-moi tout :",
+        "submit" : "Envoyer",
+        "globalError" : "Il y a eu un problème lors de la validation, vérifiez svp !",
+        "timeoutError" : "La connexion au serveur est dépassée…",
+        "success" : "Envoi réussi !",
+        "locate" : "Localisez-moi sur la carte"
+    },
+    "footer" : {
+        "made" : "À base de",
+        "by" : " par Benoit Dussaux",
+        "photo": "Photo de",
+        "legalButton":"Mentions légales"
+    },
+    "project-1" :{
+        "description" : "Site internet pour un photographe",
+        "calltoaction" : "Voir le site"
+    },
+    "project-2" :{
+        "description" : "Site internet pour une O.N.G internationale",
+        "calltoaction" : "Voir le site"
+    },
+     "project-3" :{
+        "description" : "Application personnalisée qui vous aide au quotidien à arrêter de fumer",
+        "calltoaction" : "Voir l'application Web"
+    },
+    "project-4" :{
+        "description" : "Application mobile pour traquer vos symptômes, et générer ainsi un carnet de bord pour suivre l’évolution de votre maladie",
+        "calltoaction-1" : "Télécharger l'application iOS",
+        "calltoaction-2" : "Télécharger l'application Android"
+    },
+     "project-5" :{
+        "description" : "Site internet pour une société spécialisée dans le covering et la personnalisation de tout type de support",
+        "calltoaction" : "Voir le site"
+    },
+    "project-6" :{
+        "description" : "Site internet pour une marque de mode française",
+        "calltoaction" : "Voir le site"
+    },
+    "project-7" :{
+        "description" : "Site internet pour une entreprise générale de construction, opérant à la fois en France et dans le monde sur des projets prestigieux",
+        "calltoaction" : "Voir le site"
+    },
+    "project-8" :{
+        "description" : "Application mobile pour une entreprise qui conçoit des services pour le grand public",
+        "calltoaction-1" : "Télécharger l'application iOS",
+        "calltoaction-2" : "Télécharger l'application Android"
+    },
+     "project-9" :{
+        "description" : "Application mobile d'aide et de partage pour le grand public",
+        "calltoaction-1" : "Télécharger l'application iOS",
+        "calltoaction-2" : "Télécharger l'application Android"
+    },
+    "project-10" :{
+        "description" : "Site internet pour une agence de design situé à Paris",
+        "calltoaction" : "Voir le site"
+    },
+     "project-11" :{
+        "description" : "Sites internet pour des hôtels situés à Reims",
+        "calltoaction-1" : "Voir le site Mercures",
+        "calltoaction-2" : "Voir le site Ibis",
+        "calltoaction-3" : "Voir le site Holiday Inn"
+    }
+}
+

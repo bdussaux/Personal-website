@@ -1,0 +1,13 @@
+
+
+
+/*RETINA DISPLAY*/
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+
+#about .circle, #about .circle .info .front {
+    background-image: url("../images/picture@2x.jpg");
+    background-size: 220px 220px;
+}
+
+}

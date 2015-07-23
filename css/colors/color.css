@@ -1,0 +1,171 @@
+
+
+ul.menu li a:hover {
+    border-bottom:1px solid #ffffff;
+}
+ul.menu li ul li a:hover {
+    border-bottom:1px solid #ffffff;
+}
+.cbp-af-header.cbp-af-header-shrink ul.menu li ul li a:hover{
+    border-bottom:1px solid #000000;
+}
+.cbp-af-header.cbp-af-header-shrink ul.menu li a:hover {
+    border-bottom:1px solid #000000;
+}
+.list-social li.icon-soc a {
+    color: #ffffff;
+}
+.line-drawing path {
+    stroke: #3498db;
+}
+h1 span:before  {
+    color: #000000;
+}
+h1 span:after  {
+    color: #000000;
+}
+.team-social li.icon-team a {
+    color:#3498db;
+}
+.facts-wrap-num{
+    color:#3498db;
+}
+.portfolio-box h4{
+    color:#ffffff;
+}
+#action p {
+    color:white;
+}
+.pace .pace-progress {
+  background: #3498db;
+}
+.pace .pace-progress-inner {
+  box-shadow: 0 0 10px #3498db, 0 0 5px #3498db;
+}
+.pace .pace-activity {
+  border-top-color: #3498db;
+  border-left-color: #3498db;
+}
+.icon-left1{
+    color:#3498db;
+}
+.icon-right1{
+    color:#3498db;
+}
+.services-offer .services-icon{
+    color:#3498db;
+}
+.services-offer .services-link:hover{
+    background:#3498db;
+}
+.featured{
+    border-top:3px solid #3498db;
+}
+.icon-contact1{
+    color:#ffffff;
+}
+.icon-footer{
+    color:#ffffff;
+}
+.icon-test  {
+    color:#ffffff;
+}
+.bx-wrapper .bx-controls-direction a {
+    background-color:transparent;
+}
+#footer .back-top{
+    color:#ffffff;
+}
+body.dark{
+    background: #000000;
+}
+#cboxPrevious.dark, #cboxClose.dark, #cboxNext.dark {
+    border: 1px solid #ffffff;
+}
+#cboxPrevious.dark{
+    background:url(../images/arr1.png) no-repeat center center;
+    background-size:15px 15px;
+}
+#cboxClose.dark{
+    background: url(../images/close1.png) no-repeat center center;
+    background-size:23px 23px;
+}
+#cboxNext.dark {
+    background: url(../images/arr2.png) no-repeat center center;
+    background-size:15px 15px;
+}
+#cboxPrevious.light{
+    background:url(../images/arr1-black.png) no-repeat center center;
+    background-size:15px 15px;
+}
+#cboxClose.light{
+    background: url(../images/close1-black.png) no-repeat center center;
+    background-size:23px 23px;
+}
+#cboxNext.light {
+    background: url(../images/arr2-black.png) no-repeat center center;
+    background-size:15px 15px;
+}
+body.light{
+    background: #FFFFFF;
+}
+#cboxPrevious.light, #cboxClose.light, #cboxNext.light {
+    border: 1px solid #000000;
+}
+
+body.dark .project-info h6{
+    color: #FFFFFF;
+}
+body.light .project-info h6{
+    color: #000000;
+}
+body.dark .project-info p{
+    color: rgba(255, 255, 255, .5);
+}
+body.light .project-info p{
+    color: #706e6e;
+}
+body.dark .scroll-btn1{
+    background: url('../images/arrow-down.png') no-repeat center bottom;
+}
+body.light .scroll-btn1{
+    background: url('../images/arrow-down-black') no-repeat center bottom;
+}
+
+body.dark .onepage-pagination li a:before {
+    background: rgba(255, 255, 255, .3);
+}
+body.light .onepage-pagination li a:before {
+    background: rgba(0, 0, 0, .3);
+}
+body.dark .onepage-pagination li a.active:before {
+    background: rgba(255, 255, 255, 1);
+}
+body.light .onepage-pagination li a.active:before {
+    background: rgba(0, 0, 0, 1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
