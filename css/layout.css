@@ -2076,9 +2076,9 @@ textarea {
 .disabled-onepage-scroll .onepage-pagination {
     display: none;
 }
-body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
+/*body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
     position: inherit;
-}
+}*/
 body.disabled-onepage-scroll .onepage-wrapper section {
     min-height: 100%;
     height: auto;
